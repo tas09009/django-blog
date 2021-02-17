@@ -20,7 +20,7 @@ idna==3.1
 itsdangerous==1.1.0
 Jinja2==2.11.2
 jmespath==0.10.0
-jpeg==9b  
+# jpeg==9b  
 krb5==1.17.1  
 lcms2==2.11  
 ld_impl_linux-64==2.33.1  
