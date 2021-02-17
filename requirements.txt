@@ -1,4 +1,4 @@
-asgiref @ file:///tmp/build/80754af9/asgiref_1605055780383/work
+asgiref==3.3.1
 boto3 @ file:///tmp/build/80754af9/boto3_1613251195608/work
 botocore @ file:///tmp/build/80754af9/botocore_1613409137994/work
 brotlipy==0.7.0
